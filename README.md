@@ -5,11 +5,18 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 
-### Connect with me:
+### A little bit about me:
+Hi I'm Amit Reinich, a 25 years old Fullstack Developer from Israel Herzelia.
+I always had the passion for solving problems, build and design my own stuff.
+Recently I graduated a FullStack bootcamp at JohnByrce training college. At The bootcamp I had a great time, i've learned a lot and improved my skills.
+Today I'm still learning new stuff each day and I’d be willing to take up employment in development , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
 
-[<img align="left" alt=" Amit Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Amits linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### <div align="center">Connect with me:
+
+[<img align="center" alt=" Amit Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Amits linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</div>
 <br />
 
 ### Languages and Tools:
