@@ -1,15 +1,14 @@
-### <h1 align="center">Hi there, I'm Amit Reinich </h1> 👋
+### <h1 align="center">Hi there, I'm Amit Reinich 👋</h1>
+## <h2 align="center">I'm a FullStack Developer</h2>
 
-## I'm a FullStack Developer
-
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Node.js and React
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" Amit Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Amits linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
