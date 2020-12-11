@@ -12,11 +12,11 @@ Recently I graduated a FullStack bootcamp at JohnByrce training college. At The 
 Today I'm still learning new stuff each day and I’d be willing to take up employment in development , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
 
 
-### Connect with me:
-
+### <h1 align="center">Connect with me:</h1>
+<p align="center">
 <a href="https://amit-rei.io"><img  alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://www.linkedin.com/in/amit-reinich-bbb98b19b/"><img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+</p>
 
 <br />
 
@@ -36,6 +36,5 @@ Today I'm still learning new stuff each day and I’d be willing to take up empl
 
 <br />
 <br />
-[website]: https://amit-rei.io
-[linkedin]: https://www.linkedin.com/in/amit-reinich-bbb98b19b/
+
 
