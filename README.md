@@ -1,4 +1,4 @@
-### Hi there, I'm Amit Reinich 👋
+### <h1 align="center">Hi there, I'm Amit Reinich </h1> 👋
 
 ## I'm a FullStack Developer
 
