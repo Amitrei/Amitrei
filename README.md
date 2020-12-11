@@ -1,5 +1,5 @@
-### <h1 align="center">Hi there, I'm Amit Reinich 👋</h1>
-## <h2 align="center">I'm a FullStack Developer</h2>
+<h1 align="center">Hi there, I'm Amit Reinich 👋</h1>
+<h2 align="center">I'm a FullStack Developer</h2>
 
 - 🌱 I’m currently learning Node.js and React
 - 👯 I’m looking to collaborate with other developers
