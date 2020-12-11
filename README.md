@@ -13,11 +13,9 @@ Today I'm still learning new stuff each day and I’d be willing to take up empl
 
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="center" alt=" Amit Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="Amits linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[website]: https://amit-rei.io
-[linkedin]: https://www.linkedin.com/in/amit-reinich-bbb98b19b/
 
 <br />
 
@@ -37,5 +35,6 @@ Today I'm still learning new stuff each day and I’d be willing to take up empl
 
 <br />
 <br />
-
+[website]: https://amit-rei.io
+[linkedin]: https://www.linkedin.com/in/amit-reinich-bbb98b19b/
 
