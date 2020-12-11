@@ -12,8 +12,8 @@ Recently I graduated a FullStack bootcamp at JohnByrce training college. At The 
 Today I'm still learning new stuff each day and I’d be willing to take up employment in development , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
 
 
-### <div align="center">Connect with me:
-
+### <div style="width:100%;display:flex;justify-content:space-around;align-items:center;">
+Connect with me:
 [<img align="center" alt=" Amit Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="Amits linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </div>
