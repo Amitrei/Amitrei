@@ -3,7 +3,7 @@
 ## I'm a FullStack Developer
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
