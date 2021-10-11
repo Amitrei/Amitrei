@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Amit Reinich 👋</h1>
 <h2 align="center">I'm a FullStack Developer</h2>
 
-- 🌱 I’m currently learning Node.js and React
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
 
 ### A little bit about me:
 Hi I'm Amit Reinich, a 25 years old Fullstack Developer from Israel Herzelia.
