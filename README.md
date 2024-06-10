@@ -4,9 +4,8 @@
 
 ### A little bit about me:
 Hi I'm Amit Reinich, a 29 years old Devops / infrastructure engineer from Israel Herzelia.
-I always had the passion for solving problems, build and design my own stuff.
-Recently I graduated a FullStack bootcamp at JohnByrce training college. At The bootcamp I had a great time, i've learned a lot and improved my skills.
-Today I'm still learning new stuff each day and I’d be willing to take up employment in development , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
+I always had the passion for solving problems, build and design my own stuff,
+Today I'm still learning new stuff each day and I’d be willing to take up employment in development , devops , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
 
 
 ### Connect with me:
